@@ -12,7 +12,7 @@ class Navbar extends Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          DEXO-SWAP
+          Summer Internship Project-(Sharda University)
         </a>
 
         <ul className="navbar-nav px-3">
